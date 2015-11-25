@@ -1,0 +1,21 @@
+{
+  "name": "phpuzem/menufy",
+  "description": "Laravel 5.1 Sınırsız Menü",
+  "license": "MIT",
+  "homepage": "https://github.com/yazilimbu/menufy",
+  "authors": [
+    {
+      "name": "Halil Coşdu",
+      "email": "info@phpuzem.com"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "Phpuzem\\Menufy\\": "src/"
+    }
+  },
+  "minimum-stability": "dev",
+  "require": {
+    "illuminate/support": "~5"
+  }
+}
